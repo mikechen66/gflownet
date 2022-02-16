@@ -1,3 +1,10 @@
+# The MDP of molMDP is most probably Markov Decision Process because the class of molMDP
+# includes the method of random_walk in the context. Another meaning is probably Molecule 
+# Data Parameters according to the Gromacs library for molecule dynamics. The authors have
+# not revealed the intention of the application. So it is necessary for readers to locate 
+# critical meaning of the jargons in the molecule environment. 
+
+
 import time
 
 import numpy as np
